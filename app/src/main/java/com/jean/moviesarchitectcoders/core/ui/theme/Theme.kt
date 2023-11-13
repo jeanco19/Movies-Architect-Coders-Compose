@@ -1,4 +1,4 @@
-package com.jean.moviesarchitectcoders.ui.theme
+package com.jean.moviesarchitectcoders.core.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.jean.moviesarchitectcoders.ui.theme
+package com.jean.moviesarchitectcoders.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

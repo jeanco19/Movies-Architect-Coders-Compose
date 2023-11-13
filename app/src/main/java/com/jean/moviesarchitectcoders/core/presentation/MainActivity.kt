@@ -1,4 +1,4 @@
-package com.jean.moviesarchitectcoders
+package com.jean.moviesarchitectcoders.core.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.jean.moviesarchitectcoders.ui.theme.MoviesArchitectCodersTheme
+import com.jean.moviesarchitectcoders.core.ui.theme.MoviesArchitectCodersTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
