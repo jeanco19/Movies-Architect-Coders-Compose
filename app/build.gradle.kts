@@ -10,11 +10,11 @@ plugins {
 
 android {
 
-    namespace = "com.jean.moviesarchitectcoders"
+    namespace = "com.jean.moviesarchitectcoderscompose"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.jean.moviesarchitectcoders"
+        applicationId = "com.jean.moviesarchitectcoderscompose"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

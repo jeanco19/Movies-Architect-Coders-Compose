@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Movies Architect Coders"
+rootProject.name = "Movies Architect Coders Compose"
 include(":app")
